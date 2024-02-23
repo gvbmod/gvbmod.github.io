@@ -3,7 +3,7 @@
 
 ---
 
-[Version List](versions.md)
+[Version List](versions)
 
 ## What is Gvbvdxx Mod?
 Gvbvdxx Mod is made for people that want to keep using Scratch, but want more power and control over their projects, or trying to get quick code development, or just looking for something to make a small program out of without having to type lots of code.
@@ -22,4 +22,4 @@ If your interested in trying our [new project player](https://github.com/gvbmod/
 
 ## What is the latest version?
 
-You can check the [Version List](versions.md) for the latest version, the latest version should be on the top.
+You can check the [Version List](versions) for the latest version, the latest version should be on the top.
