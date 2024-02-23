@@ -3,8 +3,6 @@
 
 ---
 
-# Version List
-[Back](README.md)
 ### All Versions
 Sorted by latest on top, and earlier on bottom.
 * [Gvbvdxx Mod 2 - Latest Release](https://gvbmod.github.io/GvbvdxxMod2)
