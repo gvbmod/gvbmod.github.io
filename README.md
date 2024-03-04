@@ -15,7 +15,7 @@ Gvbvdxx Mod, alone is safe, however, if you don't trust a project, then don't ru
 
 ## How do I package my projects?
 
-Although we are currently working on making a newer packager with better and more accurate features, Gvbvdxx Mod already has an earlier version of it but it has an outdated engine for the ealier project packager, so don't expect it to work right away with newer projects.
+Although we are currently working on making a newer packager with better and more accurate features, Gvbvdxx Mod already has an [earlier version](https://gvbmod.github.io/HTMLCompiler) of it but it has an outdated engine for the ealier project packager, so don't expect it to work right away with newer projects made in Gvbvdxx Mod 2. Instead, only use it for packaging Scratch projects.
 
 If your interested in trying our [new project player](https://github.com/gvbmod/GvbvdxxMod2/tree/main/gm2-packager). You may try it using your command line, but you must have experience understanding how SB3 and JavaScript.
 
