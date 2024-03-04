@@ -1,5 +1,4 @@
-![costume3](https://github.com/gvbmod/gvbmod.github.io/assets/123641869/ebc2efc5-0318-4aae-8af9-c1d5ce251f07)
-
+[![Gvbvdxx Mod Logo](images/logo.png)](https://gvbmod.github.io/)
 
 ---
 
