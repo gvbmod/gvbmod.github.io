@@ -5,7 +5,7 @@
 
 ### All Versions
 Sorted by latest on top, and earlier on bottom.
-* [Gvbvdxx Mod 2 - Latest Release](https://gvbmod.github.io/GvbvdxxMod2)
+* [Gvbvdxx Mod 2 - Latest Release](https://gvbmod2.vercel.app/)
 
 * [Gvbvdxx Mod 2 - Earliest Release](https://jasonglenevans.github.io/GvbvdxxMod2)
 
