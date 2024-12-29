@@ -5,6 +5,16 @@
 [Version List](versions)
 [Q&A](qanda)
 
+## Gvbvdxx Mod 2's main developer is expereincing issues with life!
+
+So to quickly say this, I have a very strict parent.
+The internet is currently a rollercoaster in unstableness, this also limits my time to upload source code and also be able to just work on Gvbvdxx Mod 2 in general. (This is due to my strict parent manipulating the internet settings and setting timers and such)
+I also keep switching computers every so now and then and lost my MAJOR computer, which has the currently updated website source code on it, which the internet makes it impossible to update the source code online. (Previously used a laptop)
+For now, every GitHub project I created is in trouble, and I'm planning on maybe just stopping with large projects outside of glitch.me because glitch.me is one of the things I know how to use properly, and GitHub is very confusing sometimes, so it makes glitch.com perfect for me.
+The packager is done, though it hasn't been updated on the website yet. I also fixed the problems with Animated Text and other things!
+I constantly try to stay out of trouble, though everything kicks me right back as if I were fighting myself.
+Coding is my main distraction, and it is what is causing all these things to happen and the roller coaster of problems with my code. Though I never want to leave it, I do want to give you some hope for new future projects. Also, I planned on adding more Hardware extensions for Gvbvdxx Mod 2 for the people who want to mess with robots and stuff using it.
+
 ## What is Gvbvdxx Mod?
 Gvbvdxx Mod is made for people that want to keep using Scratch, but want more power and control over their projects, or trying to get quick code development, or just looking for something to make a small program out of without having to type lots of code.
 
